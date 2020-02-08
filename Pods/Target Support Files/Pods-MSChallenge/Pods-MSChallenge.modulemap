@@ -1,6 +1,0 @@
-framework module Pods_MSChallenge {
-  umbrella header "Pods-MSChallenge-umbrella.h"
-
-  export *
-  module * { export * }
-}
