@@ -1,0 +1,6 @@
+framework module Pods_MSChallenge_MSChallengeUITests {
+  umbrella header "Pods-MSChallenge-MSChallengeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
